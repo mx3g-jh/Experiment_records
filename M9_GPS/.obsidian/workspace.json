@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "bf914787d19a3bbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b4f3574d1a2e6e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27406e9210de643e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "新m9_qmc5883模块.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6755ebf1fd58539c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e7f0ec31da9cf6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7c7e837fe3fcd22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "338681e72e520160",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6d1926d0b232dbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65e56b026a81e62d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3fa251f77c63f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c5119fd0c50540",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "新m9_qmc5883模块.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6d2e6cc2c55befa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "新m9_qmc5883模块.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab078f43228ffffa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "72076da06001b74a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "新m9_qmc5883模块.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b7c7e837fe3fcd22",
+  "lastOpenFiles": [
+    "image-15.png",
+    "image-14.png",
+    "image-13.png",
+    "image-12.png",
+    "image-11.png",
+    "image-10.png",
+    "image-9.png",
+    "image-8.png",
+    "image-7.png"
+  ]
+}
