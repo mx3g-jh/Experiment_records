@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "b920158c439de1eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c60643a3461f02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1ca132fa9767aab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94d9c37ca0b60bf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f42d2536b64df4d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cc2c61785b1a2d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53ad0383005f2a22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67100ab7d5363fc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5df927e77233888b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f5e1f465f62aca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4290ea960e3e42ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e09c71e7e0c34612",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a9440d9604a746e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1cd0ec96bcf91a67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f1ca132fa9767aab",
+  "lastOpenFiles": [
+    "Mantis_G(GPS)/mantis_g_对比m8q.md",
+    "Mantis_G(GPS)/eb0154bd-4cca-4f78-886c-a2ec71f4f09d.png",
+    "Mantis_G(GPS)/c6b6c4e8-839b-4108-96ef-b07814c2c41f.png",
+    "Mantis_G(GPS)/mantis_g_对比m8q.pdf",
+    "Mantis_G(GPS)/image-6.png",
+    "Mantis_G(GPS)/image-5.png",
+    "Mantis_G(GPS)/image-4.png",
+    "OTA_改动.md",
+    "M9_GPS/新m9_qmc5883模块.md"
+  ]
+}
